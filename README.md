@@ -1,1 +1,1 @@
-# -Sales-of-Supermarket-X-Prediction
+# Sales-of-Supermarket-X-Prediction
